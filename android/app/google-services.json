@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "989895439172",
+    "project_id": "evolove-56393",
+    "storage_bucket": "evolove-56393.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989895439172:android:4544fb0d2f28d031e69d11",
+        "android_client_info": {
+          "package_name": "com.evolove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989895439172-bts2ll2gl8m2ud0092hpq4nu02k2887j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evolove",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "989895439172-fep6d60suqq59j5ojri8dbh5urk517dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHUcxuHyTN38ud_DYoq8LzBhJHQ2pe_EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989895439172-fep6d60suqq59j5ojri8dbh5urk517dp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "989895439172-4eh1qla1fgvuj2bpc1la578f9jbg3gek.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.evolove"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
